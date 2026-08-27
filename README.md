@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python daily_report_bot.py
+python Pyautogui_Proj1.py
 ```
 
 Run it with Chrome and Excel closed beforehand for the most reliable behavior. The script will:
@@ -50,7 +50,7 @@ Output files land in `daily_report_output/`:
 
 ## Configuration
 
-Key constants at the top of `daily_report_bot.py`:
+Key constants at the top of `Pyautogui_Proj1.py`:
 
 | Variable | Purpose |
 |---|---|
